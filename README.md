@@ -105,3 +105,6 @@
 ## ☀ Team
 - Team 에이지프리
 - 김영우(BE), 이준수(BE), 최승호(FE), 오윤성(FE), 유혜린(AD)
+
+## 앱 동작 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/42116216/211295755-d0e85b8f-1fff-4b3e-83a1-8cc33448fbf7.gif)
